@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Run GET Api Tests" >
+
+	<test name="GetApiTests">
+		<classes>
+			<class name="com.epam.restapitest.test.GetAPiTests" />
+		</classes>
+	</test>
+
+
+</suite>
