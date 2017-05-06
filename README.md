@@ -3,7 +3,9 @@
 This is a Simple Project to test Below given Rest Apis
 
 GET all  http://swapi.co/api/planets
+
 GET by {id} - http://swapi.co/api/planets/{id}
+
 GET by Page number - http://swapi.co/api/planets/?page{pageNumber}
 
 
